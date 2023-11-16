@@ -1,0 +1,7 @@
+Index,GeoType,Borough,GeoID,Name,Population
+1,NYC,New York City,0,NYC,"8,804,190"
+2,Boro,Manhattan,1,Manhattan,"1,694,251"
+3,Boro,Bronx,2,Bronx,"1,472,654"
+4,Boro,Brooklyn,3,Brooklyn,"2,736,074"
+5,Boro,Queens,4,Queens,"2,405,464"
+6,Boro,Staten Island,5,Staten Island,"495,747"
